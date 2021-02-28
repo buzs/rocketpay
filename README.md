@@ -1,4 +1,4 @@
-# Rocketpay
+![Rocketpay](public/img/cover.png?raw=true)
 
 To start your Phoenix server:
 
